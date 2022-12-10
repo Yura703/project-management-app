@@ -1,5 +1,6 @@
 # project-management-app
-**[PR Task](https://github.com/Yura703/project-management-app/pull/1)**
+*[PR Task](https://github.com/Yura703/project-management-app/pull/1)*
+-----------------------------------------
 **[Deploy](https://rss-pm.netlify.app/)**
 ------------------------------------------------------
 Финальное командное задание курса React-2022Q3.
